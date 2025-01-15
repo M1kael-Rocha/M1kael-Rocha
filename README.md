@@ -4,9 +4,8 @@
 
 I am a Full Stack Developer currently pursuing a degree in Electronic Engineering. At the moment, I am specializing in building applications and developing apps or websites. Passionate about software development, I thrive in crafting efficient, user-centered solutions that align with modern demands and exceed expectations.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge)](your-portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](your-linkedin-link)
-[![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge)](your-leetcode-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge)](https://portifolio-e8ff4.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](www.linkedin.com/in/mikael-rocha-bernardes-39b6681a9)
 
 ---
 
